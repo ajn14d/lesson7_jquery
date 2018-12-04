@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(12 04, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Alex Nash)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment used javascript and Jquery to create an application to display information after clicking or hovering over spicific content.)
 
 ### View Project Online:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Jquery makes using javascript easy and accesible.)
+2. (learned how to use display functions.)
+3. (how to script jquery into index file.)
 
